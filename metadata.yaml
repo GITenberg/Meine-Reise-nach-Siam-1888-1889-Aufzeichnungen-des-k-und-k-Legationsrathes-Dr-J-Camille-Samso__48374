@@ -1,4 +1,5 @@
 _repo: Meine-Reise-nach-Siam-1888-1889-Aufzeichnungen-des-k-und-k-Legationsrathes-Dr-J-Camille-Samso__48374
+_version: 0.1.0
 contributor:
   annotator:
     agent_name: Gsiller, Carl von
@@ -8,12 +9,17 @@ contributor:
     agent_name: Fischer, Ludwig Hans
     gutenberg_agent_id: '44763'
     url: http://www.gutenberg.org/2009/agents/44763
+covers:
+- cover_type: archival
+  image_path: 48374-h/images/cover.jpg
 creator:
   author:
     agent_name: Samson, James Camille
     gutenberg_agent_id: '44761'
     url: http://www.gutenberg.org/2009/agents/44761
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48374#Meine-Reise-nach-Siam-1888-1889-Aufzeichnungen-des-k-und-k-Legationsrathes-Dr-J-Camille-Samso_
 gutenberg_issued: '2015-02-27'
 gutenberg_type: Text
 identifiers:
